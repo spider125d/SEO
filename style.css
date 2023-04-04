@@ -92,7 +92,7 @@ label:hover{
 	transition: .5s;
 }
 .pic::before{
-	content: "BUY/RENT";
+	content: "BUY/SELL";
 	position: absolute;
 	top: 50%;
 	left: 50%;
